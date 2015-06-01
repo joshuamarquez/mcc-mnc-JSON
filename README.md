@@ -1,4 +1,4 @@
-# mcc-mnc-json
+# mcc-mnc-JSON
 "mcc-mnc" stands for Mobile Country Code - Mobile Network Code. "mcc-mnc-json" is a json that contains a relation of country codes with their respective network codes and names.
 
 If you have the country and network codes and want to know to which country and network they belong, 
@@ -7,7 +7,7 @@ all you need to do is pass these two codes to "MCCMNC" json.
 ## Install
 
 ```
-bower install mcc-mnc-json --save
+bower install mcc-mnc-JSON --save
 ```
 
 ## Usage

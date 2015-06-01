@@ -1,0 +1,30 @@
+{
+  "name": "mcc-mnc-json",
+  "main": "mccmnc.js",
+  "version": "1.0.0",
+  "authors": [
+    "Joshua Marquez <joshua.marquez.n@gmail.com>"
+  ],
+  "description": "'mcc-mnc' stands for Mobile Country Code - Mobile Network Code. 'mcc-mnc-JSON' is a json that contains a relation of country codes with their respective network codes and names.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "mccmnc",
+    "mcc",
+    "mnc",
+    "mobile country code",
+    "mobile network code",
+    "imsi",
+    "json"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/joshua.marquez.n/mcc-mnc-JSON",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
